@@ -7,8 +7,12 @@
 
 `完成时间2020.7`
 
-- OpenCV 
+- OpenCV v4.0.1
 - C++
+
+## Installation Package
+
+see [release page](https://github.com/Tiiiktak/AircraftWarGame/releases/tag/v1.0)
 
 ## Class Diagram
 
